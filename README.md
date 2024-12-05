@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="cursohtml.png" alt="Curso Html - De cero a Experto">
+</p>
+
 # Curso-HTML
 
 # Índice del curso
@@ -72,3 +78,64 @@
 12. **Buenas prácticas**  
     Reglas y consejos para escribir un código HTML claro y eficiente.
 
+## 5. Ejercicios Prácticos
+
+### 5.1 Ejercicios de HTML Básico
+
+Ejercicios Prácticos de HTML
+
+
+## 6. Proyectos Completos
+
+### 6.1 Proyecto: Portfolio Personal
+
+Proyecto Portfolio Personal
+
+
+## 7. Mejores Prácticas y Optimización
+
+### 7.1 Mejores Prácticas de HTML
+
+1.  Estructura y Organización
+    -   Usa una estructura clara y consistente
+    -   Mantén una indentación adecuada
+    -   Agrupa elementos relacionados en secciones
+2.  Semántica
+    -   Utiliza elementos HTML5 semánticos apropiados
+    -   Evita el uso excesivo de divs
+    -   Asegura que los encabezados sigan una jerarquía lógica
+3.  Accesibilidad
+    -   Incluye atributos alt en imágenes
+    -   Usa etiquetas label en formularios
+    -   Asegura un contraste adecuado
+    -   Implementa ARIA roles cuando sea necesario
+4.  Rendimiento
+    -   Optimiza las imágenes
+    -   Usa lazy loading para imágenes
+    -   Minimiza el uso de iframes
+    -   Evita scripts bloqueantes
+
+## 8. Guía de Resolución de Problemas Comunes
+
+### 8.1 Problemas Frecuentes y Soluciones
+
+
+## 9. Recursos Adicionales
+
+### 9.1 Herramientas Útiles
+
+-   Validador W3C: [https://validator.w3.org/](https://validator.w3.org/)
+-   Can I Use: [https://caniuse.com/](https://caniuse.com/)
+-   HTML5 Please: [https://html5please.com/](https://html5please.com/)
+
+### 9.2 Documentación
+
+-   MDN Web Docs
+-   W3Schools
+-   HTML Living Standard
+
+### 9.3 Comunidades
+
+-   Stack Overflow
+-   GitHub
+-   Dev.to
