@@ -124,6 +124,7 @@ Proyecto Portfolio Personal
 
 ### 9.1 Herramientas Útiles
 
+-   EMMET commands: [https://coderslink.com/talento/blog/ahorra-tiempo-al-escribir-codigo-html-en-visual-studio-code-utilizando-emmet/](https://coderslink.com/talento/blog/ahorra-tiempo-al-escribir-codigo-html-en-visual-studio-code-utilizando-emmet/)
 -   Validador W3C: [https://validator.w3.org/](https://validator.w3.org/)
 -   Can I Use: [https://caniuse.com/](https://caniuse.com/)
 -   HTML5 Please: [https://html5please.com/](https://html5please.com/)
